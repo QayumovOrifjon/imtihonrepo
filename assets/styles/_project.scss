@@ -1,0 +1,23 @@
+
+
+.times{
+background-image:url("../images/img/Rectangle\ 119.png") ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+.time__header{
+   background-image: url("../images/icon/Rectangle.svg");
+   @include dFlex;
+   ul{@include dFlex}
+   .header__left{
+    @include dFlex;
+   }
+  
+
+}
+
+}
+.about{
+    background-color: rgb(33, 37, 41);
+    
+}
